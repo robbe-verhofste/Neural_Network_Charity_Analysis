@@ -104,7 +104,7 @@ I suspect one further way to explore this would be to create bar charts for each
 
 ## Notes: 
 Source of Images: https://www.youtube.com/watch?v=aBIGJeHRZLQ
-![](images/Hyperparamters.PNG)
+![](images/Hyperparameters.PNG)
 
 *Activation Functions:*
 * Introduce non-linearity into our neural net calculations
