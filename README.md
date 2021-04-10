@@ -89,10 +89,10 @@ A dataset of 34,299 charities were included, with key data for each on its:
 I ran four models to explore which model hyperparameters (or which variables) played most significant roles in charity success. I modified the number of layers, nodes, epochs, and varaibles in multiple iterations, which none of the outputs reaching greater than 60% accuracy.
 
 I suspect one further way to explore this would be to create bar charts for each of the variables, with each bar chart representing the percentage of that variable which was successful. For example - what percentage of all types of use cases were successful? What percentage of all income amount brackets were successful? Each variable which does not have stastically significant variation within itself, I would eliminate from the model. The result (hopefully) would be a set of significant variables that allow for effective model prediction.
-![](images/Optimization0.png)
-![](images/Optimization1.png)
-![](images/Optimization2.png)
-![](images/Optimization3.png)
+![Screenshot](images/optimization0.png)
+![Screenshot](images/optimization1.png)
+![Screenshot](images/optimization2.png)
+![Screenshot](images/optimization3.png)
 
 
 
@@ -104,7 +104,7 @@ I suspect one further way to explore this would be to create bar charts for each
 
 ## Notes: 
 Source of Images: https://www.youtube.com/watch?v=aBIGJeHRZLQ
-![](images/Hyperparamters.png)
+![Screenshot](images/Hyperparamters.png)
 
 *Activation Functions:*
 * Introduce non-linearity into our neural net calculations
